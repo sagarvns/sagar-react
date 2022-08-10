@@ -1,0 +1,2002 @@
+[
+    {
+        "chemblId": "CHEMBL3989408",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL175",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL521",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL121313",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1201141",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL427526",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL4594450",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1241153",
+        "similarity": "1.0",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL366264",
+        "similarity": "0.9375",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3544650",
+        "similarity": "0.742857",
+        "smiles": "CC(CC1=CC=C(C=C1)C(C)C(O)=O)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL192965",
+        "similarity": "0.7",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N[C@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL191345",
+        "similarity": "0.7",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N[C@@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL4080879",
+        "similarity": "0.694444",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(F)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3544649",
+        "similarity": "0.684211",
+        "smiles": "CC(CO)CC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL187556",
+        "similarity": "0.684211",
+        "smiles": "CC(C)CC1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1777821",
+        "similarity": "0.675676",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H]([11CH3])C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1778537",
+        "similarity": "0.675676",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H]([11CH3])C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL454450",
+        "similarity": "0.657895",
+        "smiles": "CCC(C(O)=O)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL361502",
+        "similarity": "0.648649",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2=CC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1945285",
+        "similarity": "0.641026",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H](CF)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1945286",
+        "similarity": "0.641026",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](CF)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL4101450",
+        "similarity": "0.638889",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(C)=O"
+    },
+    {
+        "chemblId": "CHEMBL371421",
+        "similarity": "0.638889",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(C)=O"
+    },
+    {
+        "chemblId": "CHEMBL365276",
+        "similarity": "0.638889",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H](C)C(N)=O"
+    },
+    {
+        "chemblId": "CHEMBL190950",
+        "similarity": "0.638889",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(N)=O"
+    },
+    {
+        "chemblId": "CHEMBL190156",
+        "similarity": "0.636364",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N[C@@H](CO)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3229492",
+        "similarity": "0.625",
+        "smiles": "CC(C)CC1=CC=C(C=N1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL191012",
+        "similarity": "0.622222",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N[C@H](CS)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL373096",
+        "similarity": "0.619048",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL191152",
+        "similarity": "0.617647",
+        "smiles": "CC(C)C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL292707",
+        "similarity": "0.615385",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NO"
+    },
+    {
+        "chemblId": "CHEMBL244350",
+        "similarity": "0.615385",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CC2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL190266",
+        "similarity": "0.615385",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NO"
+    },
+    {
+        "chemblId": "CHEMBL3544495",
+        "similarity": "0.615385",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC(C)(C)O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL190275",
+        "similarity": "0.6",
+        "smiles": "CC(C(O)=O)C1=CC=C(C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL188281",
+        "similarity": "0.6",
+        "smiles": "CC(C(O)=O)C1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL161052",
+        "similarity": "0.595238",
+        "smiles": "CC(C)CC1=C(Br)C=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL189207",
+        "similarity": "0.594595",
+        "smiles": "CCC(C)C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL188493",
+        "similarity": "0.590909",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL365957",
+        "similarity": "0.589744",
+        "smiles": "CNC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL191471",
+        "similarity": "0.589744",
+        "smiles": "COC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL458677",
+        "similarity": "0.589744",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NCCNC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL371554",
+        "similarity": "0.589744",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N(C)C"
+    },
+    {
+        "chemblId": "CHEMBL1241281",
+        "similarity": "0.589744",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)CCl"
+    },
+    {
+        "chemblId": "CHEMBL370925",
+        "similarity": "0.588235",
+        "smiles": "CC(C(O)=O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL244351",
+        "similarity": "0.585366",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCC2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL68346",
+        "similarity": "0.585366",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCC2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL65430",
+        "similarity": "0.585366",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N(C)O"
+    },
+    {
+        "chemblId": "CHEMBL341812",
+        "similarity": "0.583333",
+        "smiles": "CC(C)CC1=CC=C(CC(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL317434",
+        "similarity": "0.583333",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL138218",
+        "similarity": "0.583333",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2012321",
+        "similarity": "0.575",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NN"
+    },
+    {
+        "chemblId": "CHEMBL2235846",
+        "similarity": "0.575",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC(C)C"
+    },
+    {
+        "chemblId": "CHEMBL1241280",
+        "similarity": "0.571429",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)\\\\C=N\\\\O"
+    },
+    {
+        "chemblId": "CHEMBL66852",
+        "similarity": "0.571429",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N(O)C(C)C"
+    },
+    {
+        "chemblId": "CHEMBL188298",
+        "similarity": "0.571429",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCCC2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL370971",
+        "similarity": "0.565217",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCCC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL65431",
+        "similarity": "0.560976",
+        "smiles": "CONC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1823923",
+        "similarity": "0.560976",
+        "smiles": "CCOC(=O)[C@@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1823922",
+        "similarity": "0.560976",
+        "smiles": "CCOC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL370071",
+        "similarity": "0.560976",
+        "smiles": "CCNC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL4446810",
+        "similarity": "0.560976",
+        "smiles": "CCC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL190899",
+        "similarity": "0.560976",
+        "smiles": "CONC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL186063",
+        "similarity": "0.55814",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCO"
+    },
+    {
+        "chemblId": "CHEMBL2105154",
+        "similarity": "0.55814",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NCCO"
+    },
+    {
+        "chemblId": "CHEMBL370087",
+        "similarity": "0.552632",
+        "smiles": "COC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL187463",
+        "similarity": "0.552632",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C(C)(C)C"
+    },
+    {
+        "chemblId": "CHEMBL2096754",
+        "similarity": "0.55",
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C=C1)C1=CSC=C1"
+    },
+    {
+        "chemblId": "CHEMBL367252",
+        "similarity": "0.55",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CSC=C1"
+    },
+    {
+        "chemblId": "CHEMBL385185",
+        "similarity": "0.547619",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL116393",
+        "similarity": "0.547619",
+        "smiles": "CCCOC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2012344",
+        "similarity": "0.545455",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NO"
+    },
+    {
+        "chemblId": "CHEMBL190089",
+        "similarity": "0.545455",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N[C@@H](C)CO"
+    },
+    {
+        "chemblId": "CHEMBL189388",
+        "similarity": "0.545455",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N[C@H](C)CO"
+    },
+    {
+        "chemblId": "CHEMBL4083814",
+        "similarity": "0.540541",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL190177",
+        "similarity": "0.538462",
+        "smiles": "CC(C)OC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL190176",
+        "similarity": "0.538462",
+        "smiles": "C\\\\C=C\\\\C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1719430",
+        "similarity": "0.538462",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(N)=N"
+    },
+    {
+        "chemblId": "CHEMBL1740170",
+        "similarity": "0.538462",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(N)=N"
+    },
+    {
+        "chemblId": "CHEMBL190952",
+        "similarity": "0.534884",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL370938",
+        "similarity": "0.534884",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL106203",
+        "similarity": "0.534884",
+        "smiles": "CCC1=CC=CC(=C1)C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1484830",
+        "similarity": "0.533333",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL68235",
+        "similarity": "0.533333",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N(O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL468947",
+        "similarity": "0.533333",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NCCCO"
+    },
+    {
+        "chemblId": "CHEMBL232193",
+        "similarity": "0.533333",
+        "smiles": "CC(C(O)=O)C1=CC=C(NCC2=CC=C(C=C2)C2=CC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL350424",
+        "similarity": "0.531915",
+        "smiles": "CC(C)CC1=CC=C(C=C1[N+]([O-])=O)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL307475",
+        "similarity": "0.525",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC2=CC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL230013",
+        "similarity": "0.525",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1527147",
+        "similarity": "0.522727",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NS(C)(=O)=O"
+    },
+    {
+        "chemblId": "CHEMBL191413",
+        "similarity": "0.522727",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(C)(=O)=O"
+    },
+    {
+        "chemblId": "CHEMBL192943",
+        "similarity": "0.522727",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H](C)C(=O)NS(C)(=O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1241154",
+        "similarity": "0.522727",
+        "smiles": "CON(C)C(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2235849",
+        "similarity": "0.522727",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2172782",
+        "similarity": "0.522727",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NS(C)(=O)=O"
+    },
+    {
+        "chemblId": "CHEMBL2235847",
+        "similarity": "0.522727",
+        "smiles": "CCCCOC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2235848",
+        "similarity": "0.522727",
+        "smiles": "CCC(C)OC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1241254",
+        "similarity": "0.522727",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)C[N+]([O-])=O"
+    },
+    {
+        "chemblId": "CHEMBL417452",
+        "similarity": "0.521739",
+        "smiles": "C[C@@H](C(O)=O)C1=CC=C(C[C@H]2CCC[C@@H]2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL18883",
+        "similarity": "0.521739",
+        "smiles": "C[C@@H](C(O)=O)C1=CC=C(C[C@@H]2CCC[C@H]2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL19286",
+        "similarity": "0.521739",
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C[C@@H]2CCC[C@H]2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL52572",
+        "similarity": "0.521739",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N(O)CC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL191280",
+        "similarity": "0.521739",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCCCCO"
+    },
+    {
+        "chemblId": "CHEMBL1275941",
+        "similarity": "0.521739",
+        "smiles": "CC(C(O)=O)C1=CC=C(C[C@@H]2CCC[C@@H]2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL416542",
+        "similarity": "0.521739",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCC2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL441414",
+        "similarity": "0.521739",
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C[C@H]2CCC[C@@H]2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1814711",
+        "similarity": "0.521739",
+        "smiles": "CC(C(O)=O)C1=CC=C(C[C@H]2CCC[C@H]2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1275942",
+        "similarity": "0.521739",
+        "smiles": "CC(C(O)=O)C1=CC=C(C[C@H]2CCC[C@@H]2O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1320969",
+        "similarity": "0.521739",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=C(O)C=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1095485",
+        "similarity": "0.52",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC(C)CC(=O)OC(C)CC(=O)OC(C)CC(=O)OC(C)CC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1095030",
+        "similarity": "0.52",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC(C)CC(=O)OC(C)CC(=O)OC(C)CC(=O)OC(C)CC(=O)OC(C)CC(=O)OC(C)CC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL373138",
+        "similarity": "0.512195",
+        "smiles": "CCC1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL196691",
+        "similarity": "0.512195",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC=C(C=C1)C(F)(F)F"
+    },
+    {
+        "chemblId": "CHEMBL231064",
+        "similarity": "0.511628",
+        "smiles": "CCC(=O)OC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3753838",
+        "similarity": "0.511111",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1CCSCC1"
+    },
+    {
+        "chemblId": "CHEMBL1322479",
+        "similarity": "0.511111",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1CCOCC1"
+    },
+    {
+        "chemblId": "CHEMBL1241251",
+        "similarity": "0.511111",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)C1SCCCS1"
+    },
+    {
+        "chemblId": "CHEMBL365376",
+        "similarity": "0.511111",
+        "smiles": "CCS(=O)(=O)NC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL191153",
+        "similarity": "0.511111",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=CC=NC=C1"
+    },
+    {
+        "chemblId": "CHEMBL189595",
+        "similarity": "0.511111",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(=O)(=O)C(C)C"
+    },
+    {
+        "chemblId": "CHEMBL551837",
+        "similarity": "0.510638",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NCCC1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL19299",
+        "similarity": "0.510638",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL66552",
+        "similarity": "0.510638",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2235850",
+        "similarity": "0.510638",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC(O)CO"
+    },
+    {
+        "chemblId": "CHEMBL155729",
+        "similarity": "0.510638",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCCOCCOCCOCCO"
+    },
+    {
+        "chemblId": "CHEMBL1493579",
+        "similarity": "0.510638",
+        "smiles": "C[C@@H](C(O)=O)C1=CC=C(C[C@@H]2CCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1958349",
+        "similarity": "0.510638",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC1=CC=C(CCO)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL367924",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N(O)C1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL186671",
+        "similarity": "0.5",
+        "smiles": "COCCNC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL187833",
+        "similarity": "0.5",
+        "smiles": "CNCCCNC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL188137",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCN(C)C"
+    },
+    {
+        "chemblId": "CHEMBL190294",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCCN"
+    },
+    {
+        "chemblId": "CHEMBL190998",
+        "similarity": "0.5",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC=CS1"
+    },
+    {
+        "chemblId": "CHEMBL243938",
+        "similarity": "0.5",
+        "smiles": "CC(CC1=CC=CC(=C1)C(C)C(O)=O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL244138",
+        "similarity": "0.5",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL304049",
+        "similarity": "0.5",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL432354",
+        "similarity": "0.5",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC2=CC=NC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL502508",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N(CCN(CC1=CC=CC=C1)C(=O)C(C)C1=CC=C(CC(C)C)C=C1)CC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1098454",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC[N+](C)(C)C"
+    },
+    {
+        "chemblId": "CHEMBL1098126",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCCC(C)(C)C"
+    },
+    {
+        "chemblId": "CHEMBL1199151",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC[N+](C)(C)C"
+    },
+    {
+        "chemblId": "CHEMBL4175672",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)OC[C@H](NC(=S)[C@H](C)N)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1577348",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=NC=CC=N1"
+    },
+    {
+        "chemblId": "CHEMBL3251908",
+        "similarity": "0.5",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)N1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL4577714",
+        "similarity": "0.5",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(=O)CCC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3974778",
+        "similarity": "0.491228",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC1=CC=C(CC(SCCC2=CC=C(F)C=C2)C(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL375193",
+        "similarity": "0.490196",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1CCCC1C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL189951",
+        "similarity": "0.489796",
+        "smiles": "CC(CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(C)(=O)=O)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL29038",
+        "similarity": "0.489796",
+        "smiles": "CC(C(O)=O)C1=CC=C(NCCCC2=CC=C(Cl)C=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL372867",
+        "similarity": "0.489796",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCOCCO"
+    },
+    {
+        "chemblId": "CHEMBL309153",
+        "similarity": "0.489796",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL365048",
+        "similarity": "0.489362",
+        "smiles": "COC[C@@H](C)NC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL187906",
+        "similarity": "0.489362",
+        "smiles": "COC(=O)[C@@H](C)NC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL188136",
+        "similarity": "0.489362",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCCN(C)C"
+    },
+    {
+        "chemblId": "CHEMBL190267",
+        "similarity": "0.489362",
+        "smiles": "COC(=O)CNC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL190399",
+        "similarity": "0.489362",
+        "smiles": "COC[C@H](C)NC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL325787",
+        "similarity": "0.489362",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC(CC=C)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2235852",
+        "similarity": "0.489362",
+        "smiles": "COC(=O)C(C)NC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL366195",
+        "similarity": "0.489362",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=NOC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1823719",
+        "similarity": "0.489362",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)OCC(=O)N(C)C"
+    },
+    {
+        "chemblId": "CHEMBL1823913",
+        "similarity": "0.489362",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H](C)C(=O)OCC(=O)N(C)C"
+    },
+    {
+        "chemblId": "CHEMBL2235851",
+        "similarity": "0.489362",
+        "smiles": "COC(=O)CNC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1765293",
+        "similarity": "0.488889",
+        "smiles": "CC(C(O)=O)C1=CC=C(NCC(C)=C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL104147",
+        "similarity": "0.488889",
+        "smiles": "CCOC1=CC(=CC(OCC)=C1)C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL230441",
+        "similarity": "0.488372",
+        "smiles": "CC(C)S(=O)(=O)NC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL111511",
+        "similarity": "0.488372",
+        "smiles": "CC(C)C1=CC=C(CC(CS)C(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL192468",
+        "similarity": "0.488372",
+        "smiles": "CC(C(O)=O)C1=CC(CC2=CC=CC=C2)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL231169",
+        "similarity": "0.488372",
+        "smiles": "CC(C(O)=O)C1=CC=C(NS(C)(=O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL230753",
+        "similarity": "0.488372",
+        "smiles": "CC(C(O)=O)C1=CC=C(OS(C)(=O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL4076695",
+        "similarity": "0.486486",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)CO"
+    },
+    {
+        "chemblId": "CHEMBL1689433",
+        "similarity": "0.48",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCCS(=O)(=O)NO"
+    },
+    {
+        "chemblId": "CHEMBL302272",
+        "similarity": "0.48",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCC\\\\C2=N\\\\O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL190130",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(=O)(=O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL53575",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)CN1C(=O)C2=C(C=CC=C2)C1=O"
+    },
+    {
+        "chemblId": "CHEMBL188156",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCCCN(C)C"
+    },
+    {
+        "chemblId": "CHEMBL187501",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=NC=CS1"
+    },
+    {
+        "chemblId": "CHEMBL187726",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCC[N+](C)(C)C"
+    },
+    {
+        "chemblId": "CHEMBL188974",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=NC=CN=C1"
+    },
+    {
+        "chemblId": "CHEMBL366013",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=NC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL372922",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=CN=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL413561",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1CCOCC1"
+    },
+    {
+        "chemblId": "CHEMBL564780",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC12CC3CC(CC(C3)C1)C2"
+    },
+    {
+        "chemblId": "CHEMBL1310430",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=CN=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1527838",
+        "similarity": "0.479167",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=NC=CS1"
+    },
+    {
+        "chemblId": "CHEMBL190956",
+        "similarity": "0.478261",
+        "smiles": "CCC(C)CC1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3229493",
+        "similarity": "0.478261",
+        "smiles": "CC(C)CC1=CC=C(C(C)C(O)=O)C(Cl)=N1"
+    },
+    {
+        "chemblId": "CHEMBL166844",
+        "similarity": "0.477273",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)NC(=O)NO"
+    },
+    {
+        "chemblId": "CHEMBL242405",
+        "similarity": "0.477273",
+        "smiles": "CC(C)S(=O)(=O)OC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL444271",
+        "similarity": "0.477273",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)N(O)C(C)=O"
+    },
+    {
+        "chemblId": "CHEMBL2107458",
+        "similarity": "0.477273",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC(F)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2104691",
+        "similarity": "0.477273",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL205387",
+        "similarity": "0.47619",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1864916",
+        "similarity": "0.47619",
+        "smiles": "C[C@H](C(O)=O)C1=CC2=CC=C(O)C=C2C=C1"
+    },
+    {
+        "chemblId": "CHEMBL497088",
+        "similarity": "0.47619",
+        "smiles": "C[C@H](C(O)=O)C1=CC2=C(C)C=CC2=C(C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL303174",
+        "similarity": "0.47619",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(=O)N(C)O"
+    },
+    {
+        "chemblId": "CHEMBL491955",
+        "similarity": "0.475",
+        "smiles": "OC(=O)C(CC1=CC=C(O)C=C1)C1=CC=C(C=C1)C(CC1=CC=C(O)C=C1)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL191103",
+        "similarity": "0.475",
+        "smiles": "CC(C)C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL134925",
+        "similarity": "0.475",
+        "smiles": "OC(=O)C(CC1=CC=C(O)C=C1)C1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL68662",
+        "similarity": "0.470588",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCC\\\\C2=N\\\\O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL168543",
+        "similarity": "0.470588",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)C1=C2C=CC=C(O)C2=C(O)C2=C(O)C=CC=C12"
+    },
+    {
+        "chemblId": "CHEMBL191277",
+        "similarity": "0.469388",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1=NC=NC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1823718",
+        "similarity": "0.469388",
+        "smiles": "CCN(CC)C(=O)COC(=O)[C@@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL190943",
+        "similarity": "0.469388",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(=O)(=O)CC(F)(F)F"
+    },
+    {
+        "chemblId": "CHEMBL193234",
+        "similarity": "0.469388",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(=O)(=O)CCCN"
+    },
+    {
+        "chemblId": "CHEMBL1823716",
+        "similarity": "0.469388",
+        "smiles": "CCN(CC)C(=O)COC(=O)[C@H](C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL191095",
+        "similarity": "0.469388",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1CCOC1"
+    },
+    {
+        "chemblId": "CHEMBL2012327",
+        "similarity": "0.469388",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2012329",
+        "similarity": "0.469388",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NC(C1=CC=CC=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2315018",
+        "similarity": "0.469388",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1C2=CC=CC=C2C(=O)C2=CC=CC=C12"
+    },
+    {
+        "chemblId": "CHEMBL1740092",
+        "similarity": "0.468085",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=N)NC1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1719119",
+        "similarity": "0.468085",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=N)NC1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL167577",
+        "similarity": "0.466667",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)N(O)C(N)=O"
+    },
+    {
+        "chemblId": "CHEMBL104592",
+        "similarity": "0.466667",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC=C2NC=CC2=C1"
+    },
+    {
+        "chemblId": "CHEMBL1203875",
+        "similarity": "0.466667",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC(N)N=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL394825",
+        "similarity": "0.466667",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC(=O)C2=CC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL369223",
+        "similarity": "0.466667",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC(N)N=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL231266",
+        "similarity": "0.466667",
+        "smiles": "CC(C(O)=O)C1=CC=C(OC(=O)C2=CC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL190829",
+        "similarity": "0.466667",
+        "smiles": "CCCCC1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL237696",
+        "similarity": "0.465116",
+        "smiles": "CC(C(O)=O)C1=CC2=C(OCCO2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL244139",
+        "similarity": "0.465116",
+        "smiles": "CCC(C)C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL236433",
+        "similarity": "0.465116",
+        "smiles": "C[C@H](C(O)=O)C1=CC2=C(OCCO2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL390249",
+        "similarity": "0.465116",
+        "smiles": "CCC(CC)C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL2152248",
+        "similarity": "0.465116",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C1(CC1)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL236434",
+        "similarity": "0.465116",
+        "smiles": "C[C@@H](C(O)=O)C1=CC2=C(OCCO2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL439659",
+        "similarity": "0.463415",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(=O)NO"
+    },
+    {
+        "chemblId": "CHEMBL70022",
+        "similarity": "0.461538",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2CCCCC\\\\C2=N\\\\O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1741113",
+        "similarity": "0.461538",
+        "smiles": "CC(CC1=CC=CC=C1)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1650318",
+        "similarity": "0.461538",
+        "smiles": "CC(CC1=CC=CC=C1)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3355345",
+        "similarity": "0.461538",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=NC2=CC=CC=C2N1"
+    },
+    {
+        "chemblId": "CHEMBL2235853",
+        "similarity": "0.46",
+        "smiles": "COC(=O)C(NC(=O)C(C)C1=CC=C(CC(C)C)C=C1)C(C)C"
+    },
+    {
+        "chemblId": "CHEMBL1242893",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1N=NC2=CC=CC=C12"
+    },
+    {
+        "chemblId": "CHEMBL2012324",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NC1CCCC1"
+    },
+    {
+        "chemblId": "CHEMBL2106254",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC1=NC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2172781",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NS(=O)(=O)C1=CC=C(C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2235854",
+        "similarity": "0.46",
+        "smiles": "COC(=O)C(CC(C)C)NC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL3634983",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC\\\\C=C\\\\C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1242894",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=NC(C)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL364902",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(=O)(=O)CC1=CC=C(Cl)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL192907",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1CCN(C)CC1"
+    },
+    {
+        "chemblId": "CHEMBL4638271",
+        "similarity": "0.46",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1C(=O)CNC1=O"
+    },
+    {
+        "chemblId": "CHEMBL107938",
+        "similarity": "0.458333",
+        "smiles": "CCSC1=CC=CC(=C1)C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL108850",
+        "similarity": "0.457143",
+        "smiles": "CC(C)CC1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL3989754",
+        "similarity": "0.456522",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL253766",
+        "similarity": "0.456522",
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=CS1"
+    },
+    {
+        "chemblId": "CHEMBL253765",
+        "similarity": "0.456522",
+        "smiles": "C[C@@H](C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=CS1"
+    },
+    {
+        "chemblId": "CHEMBL190083",
+        "similarity": "0.456522",
+        "smiles": "C[C@@H](C(O)=O)C1=CC=C(C(F)=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL369017",
+        "similarity": "0.456522",
+        "smiles": "CCC(C(=O)N(C)O)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL956",
+        "similarity": "0.456522",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=CS1"
+    },
+    {
+        "chemblId": "CHEMBL69795",
+        "similarity": "0.456522",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C(C)C)C(=O)N(C)O"
+    },
+    {
+        "chemblId": "CHEMBL435298",
+        "similarity": "0.456522",
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(C(F)=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1200990",
+        "similarity": "0.456522",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2106868",
+        "similarity": "0.456522",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)[C@H]1CCCC[C@@H]1C"
+    },
+    {
+        "chemblId": "CHEMBL563",
+        "similarity": "0.456522",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL3526449",
+        "similarity": "0.454545",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3526450",
+        "similarity": "0.454545",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H](C)C(=O)O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3526740",
+        "similarity": "0.454545",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL2012352",
+        "similarity": "0.45283",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)N=NC(O)NO"
+    },
+    {
+        "chemblId": "CHEMBL190282",
+        "similarity": "0.452381",
+        "smiles": "CC(O)C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL142609",
+        "similarity": "0.452381",
+        "smiles": "CC(C(O)=O)C1=CC(=CC=C1)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL4635861",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1C(=O)CN(C)C1=O"
+    },
+    {
+        "chemblId": "CHEMBL2012328",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NCCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL4439928",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NS(=O)(=O)C1=CC=C(N)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL273937",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCN1CCC1=O"
+    },
+    {
+        "chemblId": "CHEMBL596757",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=C(C)C=CC=N1"
+    },
+    {
+        "chemblId": "CHEMBL391765",
+        "similarity": "0.45098",
+        "smiles": "COC(=O)N(C)COC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1689434",
+        "similarity": "0.45098",
+        "smiles": "CONS(=O)(=O)CCOC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2012325",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NC1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL2262184",
+        "similarity": "0.45098",
+        "smiles": "COC1=C(OC(=O)C(C)C2=CC=C(CC(C)C)C=C2)C=CC(C)=C1"
+    },
+    {
+        "chemblId": "CHEMBL4210577",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC1=CC=C(C=C1)C(N)=S"
+    },
+    {
+        "chemblId": "CHEMBL4203442",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=CC=C(C=C1)S(N)(=O)=O"
+    },
+    {
+        "chemblId": "CHEMBL466243",
+        "similarity": "0.45098",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC(CO[N+]([O-])=O)CO[N+]([O-])=O"
+    },
+    {
+        "chemblId": "CHEMBL371875",
+        "similarity": "0.44898",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CSC=C1"
+    },
+    {
+        "chemblId": "CHEMBL3290777",
+        "similarity": "0.448276",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC(CO)C1OC(=O)C(O)C1=O"
+    },
+    {
+        "chemblId": "CHEMBL3290776",
+        "similarity": "0.448276",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC(O)C1OC(=O)C(O)C1=O"
+    },
+    {
+        "chemblId": "CHEMBL106445",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC=C2NC(C)=CC2=C1"
+    },
+    {
+        "chemblId": "CHEMBL230544",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(NS(=O)(=O)C2=CC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL195884",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=C(C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL173711",
+        "similarity": "0.446809",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(CC1=CC=CC=C1)C(=O)N(C)O"
+    },
+    {
+        "chemblId": "CHEMBL432782",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC(C=C)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL104422",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC(C)=CC(C)=C1"
+    },
+    {
+        "chemblId": "CHEMBL72565",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC2=NC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL69308",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(\\\\C=C2/CCCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL242406",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(OS(=O)(=O)C2=CC=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL231065",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)N1CCCC1=O"
+    },
+    {
+        "chemblId": "CHEMBL3277295",
+        "similarity": "0.446809",
+        "smiles": "CCC1CC2=CC=C(C=C2C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL242612",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(OS(=O)(=O)C(F)(F)F)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL242613",
+        "similarity": "0.446809",
+        "smiles": "C[C@@H](C(O)=O)C1=CC=C(OS(=O)(=O)C(F)(F)F)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL4457933",
+        "similarity": "0.446809",
+        "smiles": "CCOC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1394",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL397738",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(NS(=O)(=O)C(F)(F)F)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL70021",
+        "similarity": "0.446809",
+        "smiles": "CC(C(O)=O)C1=CC=C(\\\\C=C2/CCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2024083",
+        "similarity": "0.446809",
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(OS(=O)(=O)C(F)(F)F)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL188751",
+        "similarity": "0.446429",
+        "smiles": "CCCC1=CC(=CC(CCC)=C1O[C@H](C(O)=O)C1=CC=C(CC(C)C)C=C1)C(=O)CC"
+    },
+    {
+        "chemblId": "CHEMBL4551048",
+        "similarity": "0.444444",
+        "smiles": "CSC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL154",
+        "similarity": "0.444444",
+        "smiles": "COC1=CC2=CC=C(C=C2C=C1)[C@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL333643",
+        "similarity": "0.444444",
+        "smiles": "COC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1236131",
+        "similarity": "0.444444",
+        "smiles": "CSC1=CC2=CC=C(C=C2C=C1)[C@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL189037",
+        "similarity": "0.444444",
+        "smiles": "CCC(O)C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL4440717",
+        "similarity": "0.444444",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NCCC1=CNC2=CC=CC=C12"
+    },
+    {
+        "chemblId": "CHEMBL4437291",
+        "similarity": "0.444444",
+        "smiles": "CSC1=CC2=CC=C(C=C2C=C1)[C@@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL12952",
+        "similarity": "0.444444",
+        "smiles": "COC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1200806",
+        "similarity": "0.444444",
+        "smiles": "COC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1618254",
+        "similarity": "0.444444",
+        "smiles": "COC1=CC2=CC=C(C=C2C=C1)[C@@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1256284",
+        "similarity": "0.444444",
+        "smiles": "COC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1903819",
+        "similarity": "0.444444",
+        "smiles": "COC1=CC2=CC=C(C=C2C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL2171273",
+        "similarity": "0.444444",
+        "smiles": "CC(C(O)=O)C1=CC2=C(C=C1)C1=C(N2)C=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL3251924",
+        "similarity": "0.444444",
+        "smiles": "CC(C(O)=O)C1=CC=C2CCC(=O)C2=C1"
+    },
+    {
+        "chemblId": "CHEMBL3277294",
+        "similarity": "0.444444",
+        "smiles": "CC(C(O)=O)C1=CC=C2CC(C)CC2=C1"
+    },
+    {
+        "chemblId": "CHEMBL3307072",
+        "similarity": "0.444444",
+        "smiles": "CC(C(O)=O)C1=CC=C2CC(C)CC2=C1"
+    },
+    {
+        "chemblId": "CHEMBL2010819",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NOCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL190391",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCCN1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL191094",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NC1CCN(C)C1"
+    },
+    {
+        "chemblId": "CHEMBL1160132",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC1CC2CCC(C1)N2C"
+    },
+    {
+        "chemblId": "CHEMBL1199312",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC1CC2CCC(C1)N2C"
+    },
+    {
+        "chemblId": "CHEMBL115749",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCCCO[N+]([O-])=O"
+    },
+    {
+        "chemblId": "CHEMBL2089020",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC1=C(C=CC(C)=C1)C(C)C"
+    },
+    {
+        "chemblId": "CHEMBL4293491",
+        "similarity": "0.442308",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)N1N=C(C)C(Cl)=C1C"
+    },
+    {
+        "chemblId": "CHEMBL2235855",
+        "similarity": "0.442308",
+        "smiles": "COC(=O)C(CC1=CC=CC=C1)NC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL307568",
+        "similarity": "0.44186",
+        "smiles": "CC(C)CC1=CC=C(CC(=O)N(C)O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL190116",
+        "similarity": "0.44186",
+        "smiles": "CC(C(O)=O)C1=CC(=CC=C1)C(C)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL190835",
+        "similarity": "0.44186",
+        "smiles": "CC(C(O)=O)C1=CC=CC(=C1)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3290778",
+        "similarity": "0.440678",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCC(OC(=O)C(C)C1=CC=C(CC(C)C)C=C1)C1OC(=O)C(O)C1=O"
+    },
+    {
+        "chemblId": "CHEMBL1230319",
+        "similarity": "0.439024",
+        "smiles": "CC1=CC=C(C[C@H](N)C(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL193415",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=C(Cl)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL194645",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=NC=C1"
+    },
+    {
+        "chemblId": "CHEMBL195970",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC(Cl)=CC(Cl)=C1"
+    },
+    {
+        "chemblId": "CHEMBL197202",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CC=C(C=C1)C1=CC=C(O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL304739",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC=C(\\\\C=C2/CCCCCC2=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL589253",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=C(I)S1"
+    },
+    {
+        "chemblId": "CHEMBL2094475",
+        "similarity": "0.4375",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=N)NC1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL1489131",
+        "similarity": "0.4375",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=N)NCCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1622136",
+        "similarity": "0.4375",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=N)NCCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2104071",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC2=C(C=CC=C2)C(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2107544",
+        "similarity": "0.4375",
+        "smiles": "CC(C(O)=O)C1=CC=C(OC2=NC=CS2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2104122",
+        "similarity": "0.434783",
+        "smiles": "CC(C(O)=O)C1=CC2=C(C=C1)C1=C(C2)C=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL242210",
+        "similarity": "0.434783",
+        "smiles": "CCC(=O)C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL1092138",
+        "similarity": "0.434783",
+        "smiles": "CC(C(O)=O)C1=CN(C(F)F)C(=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL3277296",
+        "similarity": "0.434783",
+        "smiles": "CC(C)[C@@H]1CC2=C(C1)C=C(C=C2)[C@H](C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL2105045",
+        "similarity": "0.434783",
+        "smiles": "CC(C)C1CC2=C(C1)C=C(C=C2)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL4644918",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1C(=O)N(C)C(C)(C)C1=O"
+    },
+    {
+        "chemblId": "CHEMBL123710",
+        "similarity": "0.433962",
+        "smiles": "CCOC(=O)[C@H](CS)NC(=O)C(C)C1=CC=C(CC(C)C)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL191250",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(=O)(=O)CC1=CN=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL234268",
+        "similarity": "0.433962",
+        "smiles": "CC(C(O)=O)C1=CC=C(NCC2=CC(OC3=CC=CC=C3)=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1823921",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@H](C)C(=O)OCCN1C=CN=C1"
+    },
+    {
+        "chemblId": "CHEMBL1823916",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)OCCN1C=CN=C1"
+    },
+    {
+        "chemblId": "CHEMBL2012349",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NNC(=O)NOCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2012326",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NNC(=O)NCC1CCCCC1"
+    },
+    {
+        "chemblId": "CHEMBL2262185",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCCCC1=CN=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL4207066",
+        "similarity": "0.433962",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NCCC1=CC=C(C=C1)S(N)(=O)=O"
+    },
+    {
+        "chemblId": "CHEMBL188741",
+        "similarity": "0.431818",
+        "smiles": "CC(C(O)=O)C1=CC(=CC=C1)C(C)=O"
+    },
+    {
+        "chemblId": "CHEMBL242209",
+        "similarity": "0.431818",
+        "smiles": "C[C@@H](C(O)=O)C1=CC(=CC=C1)C(C)=O"
+    },
+    {
+        "chemblId": "CHEMBL1374",
+        "similarity": "0.431818",
+        "smiles": "CC(C(O)=O)C1=CC(=CC=C1)C(O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2063855",
+        "similarity": "0.431373",
+        "smiles": "CC(C(O)=O)C1=CC=C(CC2=CSC=C2)C=C1F"
+    },
+    {
+        "chemblId": "CHEMBL194274",
+        "similarity": "0.431373",
+        "smiles": "CC(C(O)=O)C1=CC(F)=C(C=C1)C1=CSC2=CC=CC=C12"
+    },
+    {
+        "chemblId": "CHEMBL230545",
+        "similarity": "0.431373",
+        "smiles": "CCC1=C(C=CC=C1)S(=O)(=O)NC1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL4520228",
+        "similarity": "0.431373",
+        "smiles": "C[C@H](C(O)=O)C1=CC=C(NC2=NC(=CS2)C(F)(F)F)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2262183",
+        "similarity": "0.431034",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1CCCC1C(=O)OCCO"
+    },
+    {
+        "chemblId": "CHEMBL74408",
+        "similarity": "0.428571",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC2=NC=C(Cl)C=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL390481",
+        "similarity": "0.428571",
+        "smiles": "CC(C(O)=O)C1=CC=C(OS(=O)(=O)C2=CC=C(C)C=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL73898",
+        "similarity": "0.428571",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC2=NC=C(C)C=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL104336",
+        "similarity": "0.428571",
+        "smiles": "C\\\\C=C\\\\C1=CN=CC(=C1)C1=CC=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL106828",
+        "similarity": "0.428571",
+        "smiles": "CC(C(O)=O)C1=CC=C(C=C1)C1=CC(C=C)=CN=C1"
+    },
+    {
+        "chemblId": "CHEMBL142910",
+        "similarity": "0.428571",
+        "smiles": "COC1=CC=C(CC(OC2=CC=C(C=C2)C(C)C)C(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL196321",
+        "similarity": "0.428571",
+        "smiles": "COC1=CC=C(C=C1)C1=C(F)C=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL230648",
+        "similarity": "0.428571",
+        "smiles": "CC(C(O)=O)C1=CC=C(NS(=O)(=O)C2=CC=C(C)C=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL316771",
+        "similarity": "0.428571",
+        "smiles": "COC1=CC(=CC(OC)=C1)C1=C(F)C=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3355347",
+        "similarity": "0.428571",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=NC2=CC(C)=CC=C2N1"
+    },
+    {
+        "chemblId": "CHEMBL611038",
+        "similarity": "0.428571",
+        "smiles": "CC(C)C[C@H](NC(=O)N[C@@H](CC1=CC=C(O)C=C1)C(O)=O)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL144998",
+        "similarity": "0.428571",
+        "smiles": "CC(C)C1=CC=C(OC(CC2=CC=C(C)C=C2)C(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL308730",
+        "similarity": "0.428571",
+        "smiles": "CC(C(O)=O)C1=CC=C(NC2=NC(C)=CC=C2)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL2059007",
+        "similarity": "0.428571",
+        "smiles": "COC1=CC=C(CC(C(O)=O)C(O)=O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL4101743",
+        "similarity": "0.428571",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)[N+]([O-])=O"
+    },
+    {
+        "chemblId": "CHEMBL1983097",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1CCN(CC1)C=CC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL4455681",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCCC(=O)NCC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL4568458",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)O[C@H]1C(=O)OCC1(C)C"
+    },
+    {
+        "chemblId": "CHEMBL259634",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N\\\\N=C\\\\C1=CC=C(C=C1)N(C)C"
+    },
+    {
+        "chemblId": "CHEMBL50980",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1CC(=O)N(CC(=O)C(C)C2=CC=C(CC(C)C)C=C2)C1=O"
+    },
+    {
+        "chemblId": "CHEMBL2009959",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)N1CCN(CC1)\\\\C=C\\\\C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2036371",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C1=NC2=CC=CC=C2N1CC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3752411",
+        "similarity": "0.425926",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NCCCC(=O)NC1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL4473378",
+        "similarity": "0.425532",
+        "smiles": "CC(C(O)=O)C1=CC2=CC=C(C=C2C=C1)S(C)=O"
+    },
+    {
+        "chemblId": "CHEMBL4459662",
+        "similarity": "0.425532",
+        "smiles": "CC(C(O)=O)C1=CC2=CC=C(C=C2C=C1)S(C)(=O)=O"
+    },
+    {
+        "chemblId": "CHEMBL3526654",
+        "similarity": "0.424242",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(O)=O)C(=O)NCC(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL107953",
+        "similarity": "0.423077",
+        "smiles": "CCOC1=CC(=CC(OCC)=C1)C1=C(F)C=C(C=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL143851",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC(=CC(Cl)=C1)C1=CC=C(Cl)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL1297",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC(OC2=CC=CC=C2)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL190985",
+        "similarity": "0.422222",
+        "smiles": "C\\\\C=C\\\\C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL249244",
+        "similarity": "0.422222",
+        "smiles": "C[C@@H](C(O)=O)C1=CC(OC2=CC=CC=C2)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL67940",
+        "similarity": "0.422222",
+        "smiles": "CC(C)CC1=CC=C(CCC(=O)N(C)O)C=C1"
+    },
+    {
+        "chemblId": "CHEMBL251463",
+        "similarity": "0.422222",
+        "smiles": "C[C@H](C(O)=O)C1=CC=CC(OC2=CC=CC=C2)=C1"
+    },
+    {
+        "chemblId": "CHEMBL341922",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC=CC(=C1)C(=O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL138241",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC(OC2=CC=CC=C2)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL389125",
+        "similarity": "0.422222",
+        "smiles": "CC(C)C(=O)C1=CC=CC(=C1)C(C)C(O)=O"
+    },
+    {
+        "chemblId": "CHEMBL4650345",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC(=CC=C1)C(=O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL372052",
+        "similarity": "0.422222",
+        "smiles": "C[C@@H](C(O)=O)C1=CC=CC(=C1)C(=O)C1=CC=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL1564113",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC=CC(OC2=CC=CC=C2)=C1"
+    },
+    {
+        "chemblId": "CHEMBL2068720",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC(OC2=CC=CC=C2)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL2103736",
+        "similarity": "0.422222",
+        "smiles": "CC(C(O)=O)C1=CC(OC2=CC=CC=C2)=CC=C1"
+    },
+    {
+        "chemblId": "CHEMBL434725",
+        "similarity": "0.418182",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)OCO\\\\N=[N+](/[O-])N(C)C"
+    },
+    {
+        "chemblId": "CHEMBL4071348",
+        "similarity": "0.410714",
+        "smiles": "CC(C)CC1=CC=C(C=C1)C(C)C(=O)NC1=NC=C(S1)[N+]([O-])=O"
+    }
+]
